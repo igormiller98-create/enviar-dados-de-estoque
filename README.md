@@ -43,3 +43,14 @@ O sistema permite cadastrar itens, dar entrada e saída, além de visualizar o e
 📧 igormiller98@gmail.com
 
 🔗 LinkedIn https://www.linkedin.com/in/igor-muller-27b58537a/
+              📘 O que aprendi
+
+Persistência de Dados: uso de JSON para salvar informações.
+
+Autenticação: login simples com usuário e senha.
+
+Lógica de Programação: condições, laços e manipulação de dados.
+
+Menu Interativo: navegação em console.
+
+Organização: separar código, dados e documentação.
