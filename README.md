@@ -24,33 +24,22 @@ O sistema permite cadastrar itens, dar entrada e saída, além de visualizar o e
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/SEU-USUARIO/nome-do-repositorio.git
-Entre na pasta:
-
-bash
-Copiar
-Editar
-cd nome-do-repositorio
-Execute o programa:
-
-bash
-Copiar
-Editar
-python estoque.py
+2. Entre na pasta:
+      bash
+   cd nome-do-repositorio
+3. execute o programa
+     bash
+     python estoque.py
 📌 Exemplo de uso
-perl
-Copiar
-Editar
-=== Sistema de Controle de Estoque ===
+    === Sistema de Controle de Estoque ===
 1 - Cadastrar peça
 2 - Entrada no estoque
 3 - Saída do estoque
 4 - Listar estoque
-0 - Sair
-✨ Autor
+5 - Sair
+   ✨ Autor
+
 👤 Igor Leonardo Muller
 📧 igormiller98@gmail.com
-🔗 LinkedIn
 
-yaml
-Copiar
-Editar
+🔗 LinkedIn https://www.linkedin.com/in/igor-muller-27b58537a/
